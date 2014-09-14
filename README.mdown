@@ -1,0 +1,5 @@
+Hack Night Sandbox
+===
+
+This repo contains files from [ChicagoRuby](http://chicagoruby.org) hack night experiments. That's it!
+
